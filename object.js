@@ -1,4 +1,3 @@
-
 let a = {
     _year:2004,
     edition: 0
